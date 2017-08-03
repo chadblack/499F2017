@@ -1,5 +1,41 @@
-title: History 499
-permalink: pretty
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore, syllabus.txt]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
 baseurl: "/499F2017"
 url: "http://chadblack.github.io"
-markdown: kramdown
+
+
+
+### content configuration ###
+title:       "499: Social History of the Bicycle"
+keywords:    "history, bicycle, cycling, velocipede"
+source_link: "https://github.com/t413/SinglePaged"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#FFFFFF'
+  blue:      '#BDE7DE' ## '#49a7e9'
+  green:     '#DEE6B1'
+  purple:    '#c869bf'
+  orange:    '#ffdfba'  ##'#fab125'
+  turquoise: '#0fbfcf'
+  red:       '#ffb3ba'
+  smokey:    '#58595B'
+
+kramdown:
+  auto_ids:  false
+
