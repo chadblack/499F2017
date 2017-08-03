@@ -35,6 +35,7 @@ colors:
   turquoise: '#0fbfcf'
   red:       '#ffb3ba'
   smokey:    '#58595B'
+  grey:      '#E8E8EE'
 
 kramdown:
   auto_ids:  false

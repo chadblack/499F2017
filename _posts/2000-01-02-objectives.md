@@ -1,6 +1,6 @@
 ---
 title: "Course Objectives"
-bg: white
+bg: grey
 color: smokey 
 fa-icon: bicycle
 ---
