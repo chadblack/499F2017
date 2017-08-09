@@ -1,6 +1,6 @@
 ---
 title: "requirements"
-bg: grey
+bg: white
 color: smokey
 fa-icon: bicycle
 ---
