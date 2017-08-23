@@ -20,7 +20,7 @@ regularly, sharing our writing with each other, and spending a lot of time in
 discussion.
 
 1. Memo writing (20%). As part of developing your research skills, each student is
-required to write a memo using [this form]() for assigned readings. Memo writing
+required to write a memo using [this form](http://chadblack.net/499F2017/img/precis-memo.pdf) for assigned readings. Memo writing
 hones your ability to summarize and synthesize. Some readings will deserve
 longer memos than others. This technique will be important for your literature
 review, and your paper as well.
